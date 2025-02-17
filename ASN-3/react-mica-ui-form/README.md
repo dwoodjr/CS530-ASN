@@ -32,7 +32,7 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository from GitLab:
 
    ```sh
-   git clone https://gitlab.com/dkw34/CS530-ASN.git
+   git clone https://gitlab.com/dkw34/ASN-3.git
    cd react-mica-ui-form
    ```
 
