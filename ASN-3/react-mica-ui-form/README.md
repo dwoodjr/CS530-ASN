@@ -32,8 +32,8 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository from GitLab:
 
    ```sh
-   git clone https://gitlab.com/your-repo/react-mica-ui-form.git
-   cd react-mica-ui-form
+   git clone https://gitlab.com/dkw34/CS530-ASN.git
+   cd CS530-ASN/ASN-3/react-mica-ui-form
    ```
 
 2. Install dependencies:
