@@ -33,7 +33,7 @@ Ensure you have Node.js and npm installed on your machine.
 
    ```sh
    git clone https://gitlab.com/dkw34/CS530-ASN.git
-   cd CS530-ASN/ASN-3/react-mica-ui-form
+   cd react-mica-ui-form
    ```
 
 2. Install dependencies:
