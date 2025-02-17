@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+/* 🌟 Mica Background Effect */
+body {
+  background: linear-gradient(to bottom right, rgb(30 58 138), rgb(30 64 175), rgb(23 37 84));
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+/* 🌟 Mica-like Frosted Glass Effect */
+.mica {
+  background-color: rgba(30, 64, 175, 0.5);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgb(37, 99, 235);
+  border-radius: 1rem;
+}
+
+/* 🌟 Neon Effect for Titles */
+.neon-title {
+  text-shadow: 0px 0px 10px rgba(255, 255, 100, 0.8);
+}
